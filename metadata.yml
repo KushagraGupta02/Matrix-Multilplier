@@ -1,0 +1,14 @@
+---
+:id: 148486844
+:submitters:
+- :name: Kushagra Gupta
+  :email: cs5210592@cse.iitd.ac.in
+- :name: Pratham Agrawal
+  :email: cs1210891@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-13 18:28:39.948869000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-13 10:28:39.948869000 Z
+:status: processed
+:score: 59.0
